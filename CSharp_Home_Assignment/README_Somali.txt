@@ -63,5 +63,3 @@ ASSUMPTIONS / WAXYAABAHA PDF-GU AAN CADDEYN
 4. Vehicle Rental: young-driver surcharge waxaa lagu xisaabiyaa rental cost ka dib discount; insurance waxaa lagu daraa kadib.
 5. Course Registration: 10% discount waxaa laga jaraa tuition; 5% service discount waxaa laga jaraa accommodation + transport fees. PDF-gu ma qeexin base-ka discount-ka si buuxda.
 
-TALO
-Ka hor gudbinta, mashruuc kasta ku fur Visual Studio oo tijaabi xog sax ah iyo xog khaldan. Baro TryParse, if/else, switch, bool, iyo sida loo xisaabiyo discount-ka si aad macallinka ugu sharixi karto.
