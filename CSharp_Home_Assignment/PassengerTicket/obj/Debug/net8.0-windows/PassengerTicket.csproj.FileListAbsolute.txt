@@ -1,0 +1,14 @@
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\bin\Debug\net8.0-windows\PassengerTicket.exe
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\bin\Debug\net8.0-windows\PassengerTicket.deps.json
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\bin\Debug\net8.0-windows\PassengerTicket.runtimeconfig.json
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\bin\Debug\net8.0-windows\PassengerTicket.dll
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\bin\Debug\net8.0-windows\PassengerTicket.pdb
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.AssemblyInfoInputs.cache
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.AssemblyInfo.cs
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.csproj.CoreCompileInputs.cache
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.dll
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\refint\PassengerTicket.dll
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.pdb
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\PassengerTicket.genruntimeconfig.cache
+C:\kalafurid\CSharp_Home_Assignment\PassengerTicket\obj\Debug\net8.0-windows\ref\PassengerTicket.dll

@@ -1,0 +1,14 @@
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\bin\Debug\net8.0-windows\CourseRegistration.exe
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\bin\Debug\net8.0-windows\CourseRegistration.deps.json
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\bin\Debug\net8.0-windows\CourseRegistration.runtimeconfig.json
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\bin\Debug\net8.0-windows\CourseRegistration.dll
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\bin\Debug\net8.0-windows\CourseRegistration.pdb
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.AssemblyInfoInputs.cache
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.AssemblyInfo.cs
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.csproj.CoreCompileInputs.cache
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.dll
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\refint\CourseRegistration.dll
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.pdb
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\CourseRegistration.genruntimeconfig.cache
+C:\kalafurid\CSharp_Home_Assignment\CourseRegistration\obj\Debug\net8.0-windows\ref\CourseRegistration.dll

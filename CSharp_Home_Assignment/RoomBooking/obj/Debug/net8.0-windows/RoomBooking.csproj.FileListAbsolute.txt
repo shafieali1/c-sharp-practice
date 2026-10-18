@@ -1,0 +1,14 @@
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\bin\Debug\net8.0-windows\RoomBooking.exe
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\bin\Debug\net8.0-windows\RoomBooking.deps.json
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\bin\Debug\net8.0-windows\RoomBooking.runtimeconfig.json
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\bin\Debug\net8.0-windows\RoomBooking.dll
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\bin\Debug\net8.0-windows\RoomBooking.pdb
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.AssemblyInfoInputs.cache
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.AssemblyInfo.cs
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.csproj.CoreCompileInputs.cache
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.dll
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\refint\RoomBooking.dll
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.pdb
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\RoomBooking.genruntimeconfig.cache
+C:\kalafurid\CSharp_Home_Assignment\RoomBooking\obj\Debug\net8.0-windows\ref\RoomBooking.dll
